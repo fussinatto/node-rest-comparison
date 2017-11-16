@@ -1,0 +1,13 @@
+express
+Requests per second:    8740.41 [#/sec] (mean)
+node
+Requests per second:    14273.26 [#/sec] (mean)
+restify
+Requests per second:    8756.98 [#/sec] (mean)
+koa2
+Requests per second:    9785.00 [#/sec] (mean)
+fastify
+Requests per second:    13614.63 [#/sec] (mean)
+connect
+Requests per second:    14991.20 [#/sec] (mean)
+restify
